@@ -18,6 +18,8 @@
 .prettierignore
 
 .env
+.firebase
+firebase
 
 node_modules
 package-lock.json
